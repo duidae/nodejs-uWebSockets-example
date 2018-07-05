@@ -1,5 +1,7 @@
 # nodejs-uwebsocket-example
 
+* uws https://www.npmjs.com/package/uws
+
 * $ mkdir -p nodejs-uwebsocket-example
 * $ npm init
 * $ npm install uws --save
